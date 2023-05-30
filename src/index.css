@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.chat-container >.i{
+    flex-direction: row-reverse;
+}
+.chat-container >.i p{
+    background: rgb(196, 238, 196);
+}
